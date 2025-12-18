@@ -1,34 +1,5 @@
-# ======================
-# Java compiled files
-# ======================
+# Ignore Java compiled files
 *.class
 
-# ======================
-# Build directories
-# ======================
-bin/
-out/
-target/
-
-# ======================
-# Eclipse IDE files
-# ======================
-.project
-.classpath
-.settings/
-
-# ======================
-# VS Code files
-# ======================
-.vscode/
-
-# ======================
-# macOS system files
-# ======================
+# Ignore macOS files
 .DS_Store
-
-# ======================
-# Logs & temp files
-# ======================
-*.log
-*.tmp
