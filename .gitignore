@@ -3,6 +3,7 @@
 
 # Ignore macOS files
 .DS_Store
+
 # Eclipse files
 .project
 .classpath
