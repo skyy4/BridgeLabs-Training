@@ -1,5 +1,5 @@
 
-public class printitngWelcome {
+public class PrintitngWelcome {
     public static void main(String[] args) {
         System.out.println("Welcome to BridgeLabz!");
     }

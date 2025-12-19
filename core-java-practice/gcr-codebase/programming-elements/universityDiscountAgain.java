@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class universityDiscountAgain {
+public class UniversityDiscountAgain {
 
     public static void main(String[] args) {
 

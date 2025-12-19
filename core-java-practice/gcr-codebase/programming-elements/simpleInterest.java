@@ -1,4 +1,4 @@
-public class simpleInterest {
+public class SimpleInterest {
 
     public static double simpleInterest(double p, double r, double t) {
         return (p * r * t) / 100;

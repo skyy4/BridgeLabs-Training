@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class squarePerimeter {
+public class SquarePerimeter {
 
     public static void main(String[] args) {
 

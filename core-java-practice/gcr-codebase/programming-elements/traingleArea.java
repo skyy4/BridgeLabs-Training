@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class traingleArea {
+public class TraingleArea {
 
     public static void main(String[] args) {
 

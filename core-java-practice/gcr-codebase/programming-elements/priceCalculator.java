@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class priceCalculator {
+public class PriceCalculator {
 
     public static void main(String[] args) {
 

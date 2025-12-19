@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class handShake {
+public class HandShake {
 
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 
-public class findAge {
+public class FindAge {
     public static int calculate(int by, int cy) {
         return cy - by;
     }

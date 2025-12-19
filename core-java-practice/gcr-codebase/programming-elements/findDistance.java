@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class findDistance {
+public class FindDistance {
 
     public static void main(String[] args) {
 

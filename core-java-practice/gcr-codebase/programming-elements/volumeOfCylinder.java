@@ -1,5 +1,5 @@
 
-public class volumeOfCylinder {
+public class VolumeOfCylinder {
     public static double volume(double r, double h) {
         return Math.PI * r * r * h;
     }

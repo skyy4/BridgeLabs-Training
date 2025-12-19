@@ -1,5 +1,5 @@
 
-public class profitLoss {
+public class ProfitLoss {
     public static int calculate(int cp, int sp) {
         return sp - cp;
     }

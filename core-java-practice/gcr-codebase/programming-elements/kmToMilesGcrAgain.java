@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class kmToMilesGcrAgain {
+public class KmToMilesGcrAgain {
 
     public static void main(String[] args) {
 

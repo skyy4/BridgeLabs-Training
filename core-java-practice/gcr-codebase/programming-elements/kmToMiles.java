@@ -1,5 +1,5 @@
 
-public class kmToMiles {
+public class KmToMiles {
     public static double convert(double km) {
         return km * 0.621371;
     }

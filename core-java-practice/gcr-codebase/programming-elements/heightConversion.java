@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class heightConversion {
+public class HeightConversion {
 
     public static void main(String[] args) {
 

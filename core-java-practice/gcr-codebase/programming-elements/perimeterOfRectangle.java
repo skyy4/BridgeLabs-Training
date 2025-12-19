@@ -1,5 +1,5 @@
 
-public class perimeterOfRectangle {
+public class PerimeterOfRectangle {
     public static double p(double l, double w) {
         return 2 * (l + w);
     }

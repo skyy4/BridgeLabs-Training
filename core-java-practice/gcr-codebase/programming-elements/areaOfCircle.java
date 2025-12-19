@@ -1,5 +1,5 @@
 
-public class areaOfCircle {
+public class AreaOfCircle {
     public static double solve(double r) {
         return Math.PI * r * r;
     }

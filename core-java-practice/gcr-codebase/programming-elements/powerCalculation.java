@@ -1,5 +1,5 @@
 
-public class powerCalculation {
+public class PowerCalculation {
     public static double p(double b, int e) {
         return Math.pow(b, e);
     }

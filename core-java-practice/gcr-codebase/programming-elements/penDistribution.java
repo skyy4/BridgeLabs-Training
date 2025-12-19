@@ -1,5 +1,5 @@
 
-public class penDistribution {
+public class PenDistribution {
     public static void main(String[] args) {
         int p = 14;
         int s = 3;

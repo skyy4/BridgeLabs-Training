@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class doubleOpt {
+public class DoubleOpt {
 
     public static void main(String[] args) {
 
