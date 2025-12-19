@@ -10,5 +10,5 @@ public class AddTwoNumbers {
         int sum = add(n1, n2);
         System.out.println("Sum: " + sum);
     }
-    
-} //checked 
+
+}
