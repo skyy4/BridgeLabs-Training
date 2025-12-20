@@ -14,18 +14,20 @@ Currently, all foundational Core Java work resides in the **core-java-practice**
 
 ```
 BridgeLabz-Training/
-│
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   └── programming-elements/
-│   │       ├── control-flow/
-│   │       └── [Basic Programs]
-│   │
-│   ├── leet-code-codebase/
-│   │
-│   └── scenario-based/
-│
-└── README.md
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
 ```
 
 ## Day 1 – 16 December
