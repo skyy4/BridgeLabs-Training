@@ -24,6 +24,8 @@ BridgeLabz-Training/
 |   |   +-- control-flow/
 |   |   |
 |   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -38,7 +40,7 @@ BridgeLabz-Training/
 
 ---
 
-## Day 1 – 16 December
+## 16 December (Monday)
 
 ### Git & GitHub
 
@@ -64,9 +66,10 @@ Solved basic leetcode problems to improve logic and problem-solving skills:
 - Reverse Integer  
 - Is Palindrome  
 
-> 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*
+> 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*  
+> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/leet-code-codebase)
 
-## Day 2 – 17 December
+## 17 December (Tuesday)
 
 ### Git & Git Bash
 
@@ -108,7 +111,7 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 - Volume of Cylinder  
 - Volume of Earth  
 
-## Day 3 – 18 December
+## 18 December (Wednesday)
 
 ### Core Java – Programming Elements (Continued)
 
@@ -124,9 +127,10 @@ Continued practicing with additional Java programs focusing on advanced operatio
 - Logical expressions  
 - Writing structured and optimized code  
 
-> 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*
+> 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*  
+> 🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/programming-elements)
 
-## Day 4 – 19 December
+## 19 December (Thursday)
 
 ### Core Java – Control Flow Statements
 
@@ -169,9 +173,10 @@ Practiced and implemented **Control Flow programs** including:
 - Harshad Number
 - Calculator
 
-> 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*
+> 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*  
+> 🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/control-flow)
 
-## Day 5 – 20 December
+## 20 December (Friday)
 
 ### Core Java – Arrays
 
@@ -202,7 +207,8 @@ Practiced and implemented **Array-based programs** covering fundamental array op
 - Digit Frequency
 - Digit Maximum (Multiple approaches)
 
-> 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*
+> 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*  
+> 🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/arrays)
 
 ### Core Java – Scenario-Based Problems
 
@@ -211,7 +217,35 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **BMI Tracker** – Track and calculate BMI for multiple individuals
 - **Coffee Counter** – Manage coffee consumption tracking
 
-> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 📅 Week 2 – Strings & Text Processing Mastery
+
+**[22 December]**
+
+---
+
+## 22 December (Monday)
+
+### Core Java – Strings
+
+Solved string-focused problems covering common text processing patterns:
+
+- String creation and immutability basics  
+- Length checks, case conversion, trimming, and whitespace handling  
+- Character access and iteration patterns  
+- Substring extraction and slicing techniques  
+- Searching (indexOf/lastIndexOf), matching, and simple validation  
+- String comparison (equals/equalsIgnoreCase) and ordering  
+- Concatenation and efficient building with StringBuilder  
+- Split/join workflows and token handling  
+- Reversal, palindrome checks, and symmetry validation  
+- Frequency counts and de-duplication patterns  
+- Formatting, prefix/suffix checks, and cleanup routines  
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
 
 ---
 
