@@ -220,9 +220,9 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
 
-## 📅 Week 2 – Strings & Text Processing Mastery
+## 📅 Week 2 – Strings & Scenario-Based Systems
 
-**[22 December]**
+**[22-23 December]**
 
 ---
 
@@ -246,6 +246,16 @@ Solved string-focused problems covering common text processing patterns:
 
 > 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
 > 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+
+## 23 December (Tuesday)
+
+### Scenario-Based Questions
+
+- **Election Booth System**
+- **Metro Smart Card System**
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
 
 ---
 
