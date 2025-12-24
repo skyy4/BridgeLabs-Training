@@ -220,9 +220,9 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
 
-## 📅 Week 2 – Strings & Scenario-Based Systems
+## 📅 Week 2 – Strings, Scenario-Based Systems & Methods
 
-**[22-23 December]**
+**[22-24 December]**
 
 ---
 
@@ -256,6 +256,56 @@ Solved string-focused problems covering common text processing patterns:
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 24 December (Wednesday)
+
+### Core Java – Methods
+
+Practiced and implemented **Method-based programs** covering function creation, parameter passing, return types, and code reusability:
+
+**Method Fundamentals:**
+- Method declaration and definition
+- Parameter passing (primitive and reference types)
+- Return types and void methods
+- Method overloading
+- Code reusability and modularity
+
+**Practical Implementations:**
+- BMI Calculator
+- Simple Interest Calculator
+- Wind Chill Calculator
+- Length Converter
+- Unit Converter
+- Kilometers to Miles Conversion
+- Trigonometric Functions Calculator
+- Quadratic Equation Solver
+- Remainder and Quotient Finder
+- Number Analyzer and Checker
+- Number Properties and Utilities
+- Digit Analyzer and Utilities
+- Factor Operations and Utilities
+- Natural Number Sum
+- Min/Max of Three Numbers
+- Student Scorecard
+- Student Vote Checker
+- Friend Comparison
+- Football Team Height
+- Chocolate Distribution
+- Handshake Counter
+- Collinear Points
+- Line and Distance Calculations
+- Matrix Operations (Basic and Advanced)
+- Calendar Display
+- OTP Generator
+- Random Stats
+- Triangular Park Run
+- Spring Season Checker
+- Year Check
+- Zara Bonus Calculator
+- Sum Compare
+
+> 📁 *All Method programs are available inside* `gcr-codebase/methods`*.*  
+> 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/methods)
 
 ---
 
