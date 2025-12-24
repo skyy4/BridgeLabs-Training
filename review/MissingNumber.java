@@ -26,5 +26,6 @@
         int mn = funct(arr);
         System.out.println("missing no: " + mn);
     }
+    //added
     
 }
