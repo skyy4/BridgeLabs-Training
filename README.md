@@ -26,6 +26,8 @@ BridgeLabz-Training/
 |   |   +-- arrays/
 |   |   |
 |   |   +-- strings/
+|   |   |
+|   |   +-- methods/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -306,6 +308,15 @@ Practiced and implemented **Method-based programs** covering function creation, 
 
 > 📁 *All Method programs are available inside* `gcr-codebase/methods`*.*  
 > 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/methods)
+
+## 26 December (Friday)
+
+### Core Java – Strings (Extra Questions)
+
+Did the string few extra questions that were assigned.
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
 
 ---
 
